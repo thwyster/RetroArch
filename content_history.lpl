@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "D:\\Roms\\Nintendo 64\\007 - GoldenEye (USA).z64",
+      "label": "007 - GoldenEye (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\Robot Tank (USA).a26",
+      "label": "Robot Tank (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Atari - 2600 (Stella)",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\Mario Bros. (USA).a26",
+      "label": "Mario Bros. (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Atari - 2600 (Stella)",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    }
+  ]
+}
