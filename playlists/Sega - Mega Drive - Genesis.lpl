@@ -1,0 +1,77 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "D:\\Roms\\MegaDrive\\Tiny Toon Adventures - Buster's Hidden Treasure (Europe).bin",
+      "label": "Tiny Toon Adventures - Buster's Hidden Treasure (Europe)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\blastem_libretro.dll",
+      "core_name": "BlastEm",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "D:\\Roms\\MegaDrive\\Tiny Toon Adventures - Acme All-Stars (Europe).bin",
+      "label": "Tiny Toon Adventures - Acme All-Stars (Europe)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\blastem_libretro.dll",
+      "core_name": "BlastEm",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "D:\\Roms\\MegaDrive\\Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).bin",
+      "label": "Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\blastem_libretro.dll",
+      "core_name": "BlastEm",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "D:\\Roms\\MegaDrive\\Streets of Rage 2 (USA).bin",
+      "label": "Streets of Rage 2 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\blastem_libretro.dll",
+      "core_name": "BlastEm",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "D:\\Roms\\MegaDrive\\Sonic The Hedgehog 2 (World) (Rev A).bin",
+      "label": "Sonic The Hedgehog 2 (World) (Rev A)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\blastem_libretro.dll",
+      "core_name": "BlastEm",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "D:\\Roms\\MegaDrive\\Sonic The Hedgehog (USA, Europe).bin",
+      "label": "Sonic The Hedgehog (USA, Europe)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\blastem_libretro.dll",
+      "core_name": "BlastEm",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "D:\\Roms\\MegaDrive\\Sonic _ Knuckles + Sonic The Hedgehog 3 (USA).bin",
+      "label": "Sonic _ Knuckles + Sonic The Hedgehog 3 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\blastem_libretro.dll",
+      "core_name": "BlastEm",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "D:\\Roms\\MegaDrive\\Sonic & Knuckles.bin",
+      "label": "Sonic _ Knuckles",
+      "core_path": "C:\\tools\\RetroArch\\cores\\blastem_libretro.dll",
+      "core_name": "BlastEm",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "D:\\Roms\\MegaDrive\\Castle of Illusion Starring Mickey Mouse (USA, Europe).bin",
+      "label": "Castle of Illusion Starring Mickey Mouse (USA, Europe)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\blastem_libretro.dll",
+      "core_name": "BlastEm",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    }
+  ]
+}

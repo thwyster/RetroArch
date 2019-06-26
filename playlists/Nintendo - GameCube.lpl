@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "D:\\Roms\\Gamecube\\Zelda The Wind Waker.iso",
+      "label": "Zelda The Wind Waker",
+      "core_path": "C:\\tools\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Dolphin",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GameCube.lpl"
+    }
+  ]
+}

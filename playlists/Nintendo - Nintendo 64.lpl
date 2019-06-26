@@ -1,0 +1,485 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Yoshi's Story (USA) (En,Ja).z64",
+      "label": "Yoshi's Story (USA) (En,Ja)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Worms Armageddon (USA) (En,Fr,Es).z64",
+      "label": "Worms Armageddon (USA) (En,Fr,Es)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Vigilante 8 (USA).z64",
+      "label": "Vigilante 8 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Transformers - Beast Wars Transmetals (USA).z64",
+      "label": "Transformers - Beast Wars Transmetals (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Toy Story 2 - Buzz Lightyear to the Rescue! (USA).z64",
+      "label": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Top Gear Rally (USA).z64",
+      "label": "Top Gear Rally (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Top Gear Overdrive (USA).z64",
+      "label": "Top Gear Overdrive (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Tony Hawk's Pro Skater 3 (USA).z64",
+      "label": "Tony Hawk's Pro Skater 3 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Tony Hawk's Pro Skater (USA).z64",
+      "label": "Tony Hawk's Pro Skater (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Tonic Trouble (USA) (Rev A).z64",
+      "label": "Tonic Trouble (USA) (Rev A)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Tarzan (USA).z64",
+      "label": "Tarzan (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Super Smash Bros. (USA).z64",
+      "label": "Super Smash Bros. (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Super Mario 64 (USA).z64",
+      "label": "Super Mario 64 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\StarCraft 64 (USA).z64",
+      "label": "StarCraft 64 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Star Wars Episode I - Racer (USA).z64",
+      "label": "Star Wars Episode I - Racer (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Star Wars Episode I - Battle for Naboo (USA).z64",
+      "label": "Star Wars Episode I - Battle for Naboo (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Star Wars - Shadows of the Empire (USA).z64",
+      "label": "Star Wars - Shadows of the Empire (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Star Wars - Rogue Squadron (USA).z64",
+      "label": "Star Wars - Rogue Squadron (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Star Fox 64 (USA).z64",
+      "label": "Star Fox 64 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\South Park (USA).z64",
+      "label": "South Park (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Sonic Wings Assault (Japan).n64",
+      "label": "Sonic Wings Assault (Japan)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It).n64",
+      "label": "Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Rampage - World Tour (USA).z64",
+      "label": "Rampage - World Tour (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Quake II (USA).z64",
+      "label": "Quake II (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Power Rangers - Lightspeed Rescue (USA).z64",
+      "label": "Power Rangers - Lightspeed Rescue (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Pokemon Stadium 2 (USA).z64",
+      "label": "Pokemon Stadium 2 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Pokemon Stadium (USA).z64",
+      "label": "Pokemon Stadium (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Pokemon Snap (USA).z64",
+      "label": "Pokemon Snap (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Pilotwings 64 (USA).z64",
+      "label": "Pilotwings 64 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Paper Mario (USA).z64",
+      "label": "Paper Mario (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Mortal Kombat Trilogy (USA).z64",
+      "label": "Mortal Kombat Trilogy (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Mortal Kombat 4 (USA).z64",
+      "label": "Mortal Kombat 4 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Monopoly (USA).z64",
+      "label": "Monopoly (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Mega Man 64 (USA).z64",
+      "label": "Mega Man 64 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Mario Party 3 (USA).z64",
+      "label": "Mario Party 3 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Mario Party 2 (USA).z64",
+      "label": "Mario Party 2 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Mario Kart 64 (USA).z64",
+      "label": "Mario Kart 64 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube Edition).z64",
+      "label": "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube Edition)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Legend of Zelda, The - Majora's Mask (USA).z64",
+      "label": "Legend of Zelda, The - Majora's Mask (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Killer Instinct Gold (USA).z64",
+      "label": "Killer Instinct Gold (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\International Superstar Soccer 2000 (USA) (En,Es).z64",
+      "label": "International Superstar Soccer 2000 (USA) (En,Es)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\International Superstar Soccer 64 (USA).z64",
+      "label": "International Superstar Soccer 64 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Indiana Jones and the Infernal Machine (USA).z64",
+      "label": "Indiana Jones and the Infernal Machine (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Hercules - The Legendary Journeys (USA).z64",
+      "label": "Hercules - The Legendary Journeys (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Harvest Moon 64 (USA).z64",
+      "label": "Harvest Moon 64 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Earthworm Jim 3D (USA).z64",
+      "label": "Earthworm Jim 3D (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Doom 64 (USA).z64",
+      "label": "Doom 64 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Donkey Kong 64 (USA).z64",
+      "label": "Donkey Kong 64 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Conker's Bad Fur Day (USA).z64",
+      "label": "Conker's Bad Fur Day (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Command _ Conquer (USA).z64",
+      "label": "Command _ Conquer (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Castlevania - Legacy of Darkness (USA).z64",
+      "label": "Castlevania - Legacy of Darkness (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Carmageddon 64 (USA).z64",
+      "label": "Carmageddon 64 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Bug's Life, A (USA).z64",
+      "label": "Bug's Life, A (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Bomberman Hero (USA).z64",
+      "label": "Bomberman Hero (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Bomberman 64 (USA).z64",
+      "label": "Bomberman 64 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Bomberman 64 - The Second Attack! (USA).z64",
+      "label": "Bomberman 64 - The Second Attack! (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Batman Beyond - Return of the Joker (USA).z64",
+      "label": "Batman Beyond - Return of the Joker (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\Banjo-Kazooie (USA).z64",
+      "label": "Banjo-Kazooie (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\007 - The World Is Not Enough (USA).z64",
+      "label": "007 - The World Is Not Enough (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo 64\\007 - GoldenEye (USA).z64",
+      "label": "007 - GoldenEye (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Mupen64Plus OpenGL",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    }
+  ]
+}

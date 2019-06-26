@@ -1,0 +1,85 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "D:\\Roms\\Wii\\X-Men Destiny (USA).wbfs",
+      "label": "X-Men Destiny (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Dolphin",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Wii\\Transformers - The Game (USA).wbfs",
+      "label": "Transformers - The Game (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Dolphin",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Wii\\Super Mario Galaxy 2 (USA).wbfs",
+      "label": "Super Mario Galaxy 2 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Dolphin",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Wii\\Super Mario Bros 3+ [SM3E01].wbfs",
+      "label": "Super Mario Bros 3+ [SM3E01]",
+      "core_path": "C:\\tools\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Dolphin",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Wii\\Super Mario All-Stars 25th Anniversary (USA).wbfs",
+      "label": "Super Mario All-Stars 25th Anniversary (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Dolphin",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Wii\\New Super Mario Bros. Wii (USA).wbfs",
+      "label": "New Super Mario Bros. Wii (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Dolphin",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Wii\\Naruto Shippuden - Dragon Blade Chronicles (USA).wbfs",
+      "label": "Naruto Shippuden - Dragon Blade Chronicles (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Dolphin",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Wii\\Mario Kart Wii (USA).wbfs",
+      "label": "Mario Kart Wii (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Dolphin",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Wii\\Legend of Zelda - Twilight Princess (USA).wbfs",
+      "label": "Legend of Zelda - Twilight Princess (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Dolphin",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Wii\\Bleach - Shattered Blade (USA).wbfs",
+      "label": "Bleach - Shattered Blade (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\dolphin_libretro.dll",
+      "core_name": "Dolphin",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Wii.lpl"
+    }
+  ]
+}

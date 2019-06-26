@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "D:\\Roms\\GBA\\Pokemon - FireRed Version (USA).gba",
+      "label": "Pokemon - FireRed Version (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mgba_libretro.dll",
+      "core_name": "mGBA",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "D:\\Roms\\GBA\\Pokemon - Emerald Version (USA, Europe).gba",
+      "label": "Pokemon - Emerald Version (USA, Europe)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\mgba_libretro.dll",
+      "core_name": "mGBA",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    }
+  ]
+}

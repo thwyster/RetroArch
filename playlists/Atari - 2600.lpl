@@ -1,0 +1,133 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "D:\\Roms\\Atari\\Robot Tank TV by Thomas Jentzsch (2 Joystick Hack).a26",
+      "label": "Robot Tank TV by Thomas Jentzsch (2 Joystick Hack)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Stella",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\River Raid (1982) (Activision) [!].a26",
+      "label": "River Raid (1982) (Activision) [!]",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Stella",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\Pitfall! (1982) (Activision) [!].a26",
+      "label": "Pitfall! (1982) (Activision) [!]",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Stella",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\Pac-Man (1981) (Atari).a26",
+      "label": "Pac-Man (1981) (Atari)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Stella",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\Mario Bros (1983) (Atari) (PAL) [!].a26",
+      "label": "Mario Bros (1983) (Atari) (PAL) [!]",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Stella",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\Galaga (River Raid clone) [p1].a26",
+      "label": "Galaga (River Raid clone) [p1]",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Stella",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\Frogger (1982) (Parker Bros).a26",
+      "label": "Frogger (1982) (Parker Bros)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Stella",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\E.T. The Extra-Terrestrial (1982) (Atari) [!].a26",
+      "label": "E.T. The Extra-Terrestrial (1982) (Atari) [!]",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Stella",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\Donkey Kong (198x).a26",
+      "label": "Donkey Kong (198x)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Stella",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\Dig Dug (1983) (Atari).a26",
+      "label": "Dig Dug (1983) (Atari)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Stella",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\Defender (1981) (Atari).a26",
+      "label": "Defender (1981) (Atari)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Stella",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\Centipede (1982) (Atari) [!].a26",
+      "label": "Centipede (1982) (Atari) [!]",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Stella",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\Asteroids (1979) (Atari) [!].a26",
+      "label": "Asteroids (1979) (Atari) [!]",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Stella",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\Asteroids (1979) (Atari) (PAL) [!].a26",
+      "label": "Asteroids (1979) (Atari) (PAL) [!]",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Stella",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\Adventure (1978) (Atari).a26",
+      "label": "Adventure (1978) (Atari)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Stella",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Atari\\128-in-1 Junior Console (Chip 1) (PAL) [!].a26",
+      "label": "128-in-1 Junior Console (Chip 1) (PAL) [!]",
+      "core_path": "C:\\tools\\RetroArch\\cores\\stella_libretro.dll",
+      "core_name": "Stella",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 2600.lpl"
+    }
+  ]
+}

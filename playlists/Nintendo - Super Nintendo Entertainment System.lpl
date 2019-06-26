@@ -1,0 +1,597 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Zombies Ate My Neighbors (USA).smc",
+      "label": "Zombies Ate My Neighbors (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\X-Men - Mutant Apocalypse (USA).smc",
+      "label": "X-Men - Mutant Apocalypse (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Ultimate Mortal Kombat 3 (USA).smc",
+      "label": "Ultimate Mortal Kombat 3 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Toy Story (USA).smc",
+      "label": "Toy Story (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Top Gear 3000 (USA).smc",
+      "label": "Top Gear 3000 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Top Gear 2 (USA).smc",
+      "label": "Top Gear 2 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Top Gear (USA).smc",
+      "label": "Top Gear (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Tom and Jerry (USA).smc",
+      "label": "Tom and Jerry (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Todd McFarlane's Spawn - The Video Game (USA).smc",
+      "label": "Todd McFarlane's Spawn - The Video Game (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).smc",
+      "label": "Teenage Mutant Ninja Turtles IV - Turtles in Time (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Teenage Mutant Ninja Turtles - Tournament Fighters (USA).smc",
+      "label": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Taz-Mania (USA).smc",
+      "label": "Taz-Mania (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Super Star Wars (USA).smc",
+      "label": "Super Star Wars (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Super Star Wars - Return of the Jedi (USA).smc",
+      "label": "Super Star Wars - Return of the Jedi (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Super Metroid (Europe) (En,Fr,De).smc",
+      "label": "Super Metroid (Europe) (En,Fr,De)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Super Mario World 2 - Yoshi's Island (USA).smc",
+      "label": "Super Mario World 2 - Yoshi's Island (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Super Mario World (USA).smc",
+      "label": "Super Mario World (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Super Mario Kart (USA).smc",
+      "label": "Super Mario Kart (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Super Mario All-Stars (USA).smc",
+      "label": "Super Mario All-Stars (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Super Castlevania IV (USA).smc",
+      "label": "Super Castlevania IV (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Super Bomberman 5 (J).smc",
+      "label": "Super Bomberman 5 (J)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Super Bomberman 4 (J).fig",
+      "label": "Super Bomberman 4 (J)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Super Bomberman (USA).smc",
+      "label": "Super Bomberman (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Sunset Riders (USA).smc",
+      "label": "Sunset Riders (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Street Fighter II Turbo (USA).smc",
+      "label": "Street Fighter II Turbo (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Star Fox (USA).smc",
+      "label": "Star Fox (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Spider-Man (USA).smc",
+      "label": "Spider-Man (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Spider-Man - X-Men - Arcade's Revenge (USA).smc",
+      "label": "Spider-Man - X-Men - Arcade's Revenge (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Spider-Man - Venom - Maximum Carnage (USA).smc",
+      "label": "Spider-Man - Venom - Maximum Carnage (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Sonic Wings (Japan).fig",
+      "label": "Sonic Wings (Japan)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Sonic the Hedgehog (Unl) [p1].smc",
+      "label": "Sonic the Hedgehog",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Scooby-Doo Mystery (USA).smc",
+      "label": "Scooby-Doo Mystery (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Rock n' Roll Racing (USA).smc",
+      "label": "Rock n' Roll Racing (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Pitfall - The Mayan Adventure (USA).smc",
+      "label": "Pitfall - The Mayan Adventure (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Pinocchio (USA).smc",
+      "label": "Pinocchio (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Pilotwings (USA).smc",
+      "label": "Pilotwings (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Mickey to Donald - Magical Adventure 3 (Japan).fig",
+      "label": "Mickey to Donald - Magical Adventure 3 (Japan)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Mega Man X3 (USA).smc",
+      "label": "Mega Man X3 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Mega Man X2 (USA).smc",
+      "label": "Mega Man X2 (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Mega Man X (USA).smc",
+      "label": "Mega Man X (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Mask, The (USA).smc",
+      "label": "Mask, The (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Marvel Super Heroes in War of the Gems (USA).smc",
+      "label": "Marvel Super Heroes in War of the Gems (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Lion King, The (USA).smc",
+      "label": "Lion King, The (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Legend of Zelda, The - A Link to the Past (USA).smc",
+      "label": "Legend of Zelda, The - A Link to the Past (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Kirby Super Star (USA).smc",
+      "label": "Kirby Super Star (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Killer Instinct (USA).smc",
+      "label": "Killer Instinct (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Jurassic Park (USA).smc",
+      "label": "Jurassic Park (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Jungle Book, The (USA).smc",
+      "label": "Jungle Book, The (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Joe _ Mac (USA).smc",
+      "label": "Joe _ Mac (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\International Superstar Soccer Deluxe (USA).smc",
+      "label": "International Superstar Soccer Deluxe (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Indiana Jones' Greatest Adventures (USA).smc",
+      "label": "Indiana Jones' Greatest Adventures (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Incredible Hulk, The (USA).fig",
+      "label": "Incredible Hulk, The (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Goof Troop (USA).smc",
+      "label": "Goof Troop (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Final Fight (USA).smc",
+      "label": "Final Fight (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Final Fantasy III (USA).smc",
+      "label": "Final Fantasy III (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Earthworm Jim (USA).smc",
+      "label": "Earthworm Jim (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Dragon Ball Z - Ultime Menace (France).smc",
+      "label": "Dragon Ball Z - Ultime Menace (France)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Dragon Ball Z - Super Butouden (France).smc",
+      "label": "Dragon Ball Z - Super Butouden (France)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Doom (USA).smc",
+      "label": "Doom (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).smc",
+      "label": "Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr).smc",
+      "label": "Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Donkey Kong Country (USA).smc",
+      "label": "Donkey Kong Country (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Contra III - The Alien Wars (USA).smc",
+      "label": "Contra III - The Alien Wars (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Battletoads in Battlemaniacs (USA).smc",
+      "label": "Battletoads in Battlemaniacs (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Batman Returns (USA).smc",
+      "label": "Batman Returns (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Batman - Revenge of the Joker (USA) (Proto).smc",
+      "label": "Batman - Revenge of the Joker (USA) (Proto)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Asterix _ Obelix (Europe) (En,Fr,De,Es).smc",
+      "label": "Asterix _ Obelix (Europe) (En,Fr,De,Es)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Animaniacs (USA).smc",
+      "label": "Animaniacs (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Alien vs Predator (USA).smc",
+      "label": "Alien vs Predator (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Aladdin (USA).smc",
+      "label": "Aladdin (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Air Cavalry (Europe).smc",
+      "label": "Air Cavalry (Europe)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Aero Fighters (USA).smc",
+      "label": "Aero Fighters (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Adventures of Batman _ Robin, The (USA).smc",
+      "label": "Adventures of Batman _ Robin, The (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "D:\\Roms\\Nintendo SNES\\Addams Family, The (USA).smc",
+      "label": "Addams Family, The (USA)",
+      "core_path": "C:\\tools\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    }
+  ]
+}
